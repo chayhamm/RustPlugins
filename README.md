@@ -9,3 +9,7 @@
 
 ## **KillFeed.cs**
     *Simple KillFeed with some extra features - only visible to attacker & victim (not the whole Server)*
+
+## **WipeTime.cs**
+    */wipe - says when the Server will wipe next*
+    *May change to **HelpCommands.cs** in the future*
