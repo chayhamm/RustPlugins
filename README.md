@@ -19,3 +19,7 @@
     */roam TIME GRID - default command - where & how long to do the roam*
     */endroam - If a roam is active, it will end it: command made by me*
     **LINK:https://codefling.com/plugins/roam-bubble**
+
+## **ServerAnnouncer.cs**
+    *Announces a message to the Server as a Staff Member*
+    *The message is at a good enough size where it is noticeable to the whole server*
